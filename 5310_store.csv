@@ -1,0 +1,6 @@
+"store_id","store_name","address","city","state","phone_number","email"
+"1","ABC FoodMart A","123 Maple Avenue, Queens","New York","NY","664-713-7151","ABCFoodMartA@gmail.com"
+"2","ABC FoodMart B","456 Elm Street, Queens","New York","NY","881-729-5270","ABCFoodMartB@gmail.com"
+"3","ABC FoodMart C","101 Cedar Road, Brooklyn","New York","NY","881-751-7981","ABCFoodMartC@gmail.com"
+"4","ABC FoodMart D","789 Pine Boulevard, Brooklyn","New York","NY","881-729-5272","ABCFoodMartD@gmail.com"
+"5","ABC FoodMart E","202 Oak Lane, Brooklyn","New York","NY","881-729-5273","ABCFoodMartE@gmail.com"
